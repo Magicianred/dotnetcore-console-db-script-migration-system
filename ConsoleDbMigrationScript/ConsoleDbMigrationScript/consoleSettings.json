@@ -1,0 +1,19 @@
+﻿{
+  "ConnectionStrings": {
+    "Database": "YOUR_CONNECTION_STRING"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "SqlScripts": {
+    "Planned": [
+      "YOUR_FOLDERS",
+      "YOUR_FOLDERS/YOUR_FILES"
+    ]
+  }
+}

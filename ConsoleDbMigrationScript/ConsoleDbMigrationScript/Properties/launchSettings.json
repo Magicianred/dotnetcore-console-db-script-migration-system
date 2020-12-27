@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleDbMigrationScript": {
+      "commandName": "Project",
+      "commandLineArgs": "--pathdbscripts DBScripts"
+    }
+  }
+}
